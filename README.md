@@ -39,4 +39,4 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
 ## IWannaMarryAIWaifu
 
 1. Woon Yi Heng
-2. Bong Jie Sheng 
+2. Bong Jia Sheng 
