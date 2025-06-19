@@ -40,3 +40,4 @@ https://github.com/chanjuping/ComfyUI-AMDopenSUSE.git
 
 1. Woon Yi Heng
 2. Bong Jia Sheng 
+[project](https://github.com/BBBBqeqwm/workshop-project)
